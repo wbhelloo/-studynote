@@ -1,6 +1,6 @@
 [HOME](./README.md) &nbsp;  &nbsp;  &nbsp; [BLOG](./Diary/README.md)
 
-
+---
 ### 学习笔记类
 
   - #### [JavaScript 学习笔记](./JavaScript)
@@ -13,6 +13,6 @@
   
   - #### [综合学习笔记](./Diary)
   
-
+---
 ###### ![](./images/link.ico) [www.zjing.tk](./README.md) &nbsp; ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
 
