@@ -1,4 +1,4 @@
-[HOME](./README.md) &nbsp;  &nbsp;  &nbsp; [BLOG](./Diary/README.md)
+[**HOME**](./README.md) &nbsp;  &nbsp;  &nbsp; [**BLOG**](./Diary/README.md)
 
 ---
 ### 学习笔记类
