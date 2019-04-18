@@ -1,4 +1,4 @@
-[主页](../../README.md)
+[主页](www.zjcao.tk)
 
 ## JavaScript学习笔记
 
