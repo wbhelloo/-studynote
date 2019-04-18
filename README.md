@@ -1,6 +1,8 @@
 
 ## [HOME](./)   [Blog](./)
 
-- #### [JavaScript学习笔记](./JavaScript)
+### 学习笔记类
 
-- #### [Person-Re-identification学习笔记](./Person-Re-identification)
+  - #### [JavaScript学习笔记](./JavaScript)
+
+  - #### [Person-Re-identification学习笔记](./Person-Re-identification)
