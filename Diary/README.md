@@ -1,4 +1,8 @@
-# Diary
+## Diary
+
+### 常用工具命令
+
+- [Ubuntn常用命令](./Conda-commands.md)
 
 - [2019.03.12 Win10安装Tensorflow-gpu方法.md](./Win10安装Tensorflow-gpu方法.md)
 - [2019.03.20 对车牌进行模糊处理.md](./对车牌进行模糊处理.md)
