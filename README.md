@@ -4,7 +4,10 @@
 
 ### 常用工具命令
 
-  - #### [Ubuntn常用命令](./Diary/00_Conda-Commands.md)
+  - #### [00_Markdown 简明语法](./Diary/06_Markdown-Commands.md)
+  
+  - #### [01_Ubuntn常用命令](./Diary/00_Conda-Commands.md)
+
   
 ### 学习笔记类
 
