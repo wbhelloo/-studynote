@@ -1,11 +1,11 @@
 ## `pipreqs`查找python项目依赖包并生成`requirements.txt`
 
-## `pipreqs`安装
+#### `pipreqs`安装
 
     pip install pipreqs
 
 
-## pipreqs的使用
+#### pipreqs的使用
 
 在项目的根目录下 运行 ```pipreqs ./``` 命令即可, 如：
 
@@ -24,7 +24,7 @@ UnicodeDecodeError: 'cp949' codec can't decode byte 0xe5 in position 672: illega
     INFO: Successfully saved requirements file in ./requirements.txt
 
 
-## 详细用法：
+#### 详细用法：
 
     pipreqs [options] <path>
 
