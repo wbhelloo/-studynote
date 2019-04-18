@@ -13,8 +13,6 @@
   
   - #### [综合学习笔记](./Dairy)
   
-  ![](./images/location-address.jpg)
-
 ---
 ###### :mailbox: ![](./images/mail2.ico) *zjcao@jbnu.ac.kr*
 
