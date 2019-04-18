@@ -3,11 +3,11 @@
 ---
 ### 学习笔记类
 
-  - #### [JavaScript学习笔记](./JavaScript)
+  - #### [JavaScript 学习笔记](./JavaScript)
   
   - #### [ML/DL for Everyone with Pytorch 学习笔记](./ML-DL-Pytorch)
 
-  - #### [Person-Re-identification学习笔记](./Person-Re-identification)
+  - #### [Person-Re-identification 学习笔记](./Person-Re-identification)
 
 
 
