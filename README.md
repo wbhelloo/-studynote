@@ -10,4 +10,4 @@
 
 
 ---
-<font color=grey>Email: zjcao@jbnu.ac.kr   zjcao.github.io</font>
+<font color=gray>Email: zjcao@jbnu.ac.kr   zjcao.github.io</font>
