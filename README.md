@@ -14,5 +14,5 @@
   - #### [综合学习笔记](./Dairy)
   
 ---
-###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  ![](./images/link.ico) <www.zjcao.tk>
+###### ![](./Images/mail.ico) *zjcao@jbnu.ac.kr*  ![](./Images/link.ico) <www.zjcao.tk>
 
