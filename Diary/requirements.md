@@ -1,5 +1,8 @@
 ## `pipreqs`查找python项目依赖包并生成`requirements.txt`
 
+> 本节内容参考了：[https://pypi.org/project/pipreqs/](https://pypi.org/project/pipreqs/)
+ </file></file></file></charset></dirs></url></url></path>
+
 #### `pipreqs`安装
 
     pip install pipreqs
@@ -54,6 +57,3 @@ UnicodeDecodeError: 'cp949' codec can't decode byte 0xe5 in position 672: illega
 
 - ```clean <file>``` 通过删除未在项目中导入的模块来清理requirements.txt
 
-
-本节内容参考了：[https://pypi.org/project/pipreqs/](https://pypi.org/project/pipreqs/)
- </file></file></file></charset></dirs></url></url></path>
