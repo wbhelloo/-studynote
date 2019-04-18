@@ -1,4 +1,4 @@
-# ML/DL for Everyone with Pytorch
+## ML/DL for Everyone with Pytorch
 
 ## Lecture 3_Gradient Descent
 
