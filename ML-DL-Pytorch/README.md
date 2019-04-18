@@ -11,11 +11,7 @@
 --- 
 
 * [Lecture-1_Overvie](./Lecture-1_Overview.md)
-
 * [Lecture-2_Linear-Mode](./Lecture-2_Linear-Mode.md)
-
 * [Lecture-3_Gradient-Descent](./Lecture-3_Gradient-Descent.md)
-
 * [Lecture-4_Back-propagationl](./Lecture-4_Back-propagationl.md) 
-
 * [Lecture-5_Linear-regression-in-PyTorch-way](./Lecture-5_Linear-regression-in-PyTorch-way.md)
