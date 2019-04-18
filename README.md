@@ -1,4 +1,4 @@
-> 靡不有初，鲜克有终。   --《诗经·大雅·荡》
+> 靡不有初，鲜克有终。 &nbsp; --《诗经·大雅·荡》
 
 ---
 ### 学习笔记类
@@ -14,5 +14,5 @@
   - #### [综合学习笔记](./Diary)
   
 ---
-###### ![](./images/link.ico) [www.zjing.tk](./README.md)  &nbsp; ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
+###### ![](./images/link.ico) [www.zjing.tk](./README.md) &nbsp; ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
 
