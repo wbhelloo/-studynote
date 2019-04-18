@@ -2,7 +2,7 @@
 
 ### 常用工具命令
 
-- [Ubuntn常用命令](./Conda-commands.md)
+- [Ubuntn常用命令](./00_Conda-Commands.md)
 
 ### 学习笔记 
 
