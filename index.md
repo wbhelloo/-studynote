@@ -1,2 +1,2 @@
 
-## JavaScript学习笔记 [转到](./JavaScript)
+## [JavaScript学习笔记](./JavaScript/REDEME.md)
