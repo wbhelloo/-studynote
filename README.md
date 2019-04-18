@@ -22,7 +22,7 @@
   - #### [综合学习笔记](./Diary)
   
   
-  
+  - #### [深度学习图书](https://github.com/zjcao/books)
   
   
   
