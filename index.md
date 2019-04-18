@@ -1,3 +1,3 @@
 
 - [JavaScript](./JavaScript)
-- [Person-Re-identificatiot](./Person-Re-identificatio)
+- [Person-Re-identification](./Person-Re-identification)
