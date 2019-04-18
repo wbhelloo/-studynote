@@ -1,5 +1,5 @@
 
-## [HOME](./)   [Blog](./)
+## [HOME](www.zjing.tk)   [Blog](./)
 
 ### 学习笔记类
 
