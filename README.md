@@ -19,5 +19,5 @@
   
   
 ---
-###### ![](./images/link.ico) [www.zjing.tk](./README.md) &nbsp; ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
+###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
 
