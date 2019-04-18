@@ -1,10 +1,7 @@
-> 靡不有初，鲜克有终。 &nbsp; --《诗经·大雅·荡》
-
----
-
 [HOME](./README.md) &nbsp;  &nbsp;  &nbsp; [BLOG](./Diary/README.md)
 
 ---
+
 ---
 
 ### 学习笔记类
