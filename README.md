@@ -14,5 +14,5 @@
   - #### [综合学习笔记](./Diary)
   
 ---
-###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  ![](./images/link.ico) [www.zjcao.tk](www.zjcao.tk)
+###### ![](./images/link.ico) [www.zjcao.tk](www.zjcao.tk)   ![](./images/mail.ico) *zjcao@jbnu.ac.kr*  
 
