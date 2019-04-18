@@ -22,5 +22,5 @@
   
 ---
 
-- ###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* 
+###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* 
 
