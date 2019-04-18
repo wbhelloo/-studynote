@@ -16,5 +16,5 @@
   ![](./images/location-address.jpg)
 
 ---
-###### :mailbox: *zjcao@jbnu.ac.kr*
+###### :mailbox: ![](./images/mail.ico) *zjcao@jbnu.ac.kr*
 
