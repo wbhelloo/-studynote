@@ -9,7 +9,7 @@
 
   - #### [Person-Re-identification 学习笔记](./Person-Re-identification)
 
-### 日常学习笔记
+### 综合学习笔记
   
   - #### [综合学习笔记](./Dairy)
   
