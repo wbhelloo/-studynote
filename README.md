@@ -1,4 +1,4 @@
-[**HOME**](./README.md) &nbsp;  &nbsp;  &nbsp; [**BLOG**](./Diary/README.md)
+> 靡不有初，鲜克有终。 &nbsp; --《诗经·大雅·荡》
 
 ---
 ### 学习笔记类
