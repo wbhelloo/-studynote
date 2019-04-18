@@ -11,9 +11,9 @@
 
 ### 日常学习笔记
   
-  - #### [综合学习笔记](./images/location-address.jpg)
+  - #### [综合学习笔记](./Dairy)
   
-  ![](./images/lo)
+  ![](./images/location-address.jpg)
 
 ---
 ###### :mailbox: *zjcao@jbnu.ac.kr*
