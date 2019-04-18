@@ -1,4 +1,4 @@
-[主页](./JavaScript)
+[JavaScript主页](./JavaScript)
 
 ## JavaScript学习笔记
 
