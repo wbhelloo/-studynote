@@ -26,6 +26,7 @@ y_data = Variable(torch.Tensor([[0.], [0.], [1.], [1.]]))
 # print('x_data.shape:',x_data.shape)
 # print('y_data.shape:',y_data.shape)
 
+########################################################################
 class Model(torch.nn.Module):
 
     def __init__(self):
@@ -46,13 +47,14 @@ class Model(torch.nn.Module):
 # our model
 model = Model()
 
-
+########################################################################
 # Construct our loss function and an Optimizer. The call to model.parameters()
 # in the SGD constructor will contain the learnable parameters of the two
 # nn.Linear modules which are members of the model.
 criterion = torch.nn.BCELoss(size_average=True)
 optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
 
+########################################################################
 # Training loop
 for epoch in range(1000):
     # Forward pass: Compute predicted y by passing x to the model
