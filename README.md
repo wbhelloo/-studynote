@@ -23,5 +23,5 @@
     
   
 ---
-###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* &nbsp;&nbsp;[sel.jbnu.ac.kr](sel.jbnu.ac.kr)
+###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* &nbsp;&nbsp;[http://sel.jbnu.ac.kr/](http://sel.jbnu.ac.kr/)
 
