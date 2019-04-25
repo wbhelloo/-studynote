@@ -9,6 +9,7 @@
   
 - 学习笔记类
 
+  - [Python简明教程(完)](./A-Byte-of-Python)
   - [JavaScript 学习笔记](./JavaScript)
   - [ML/DL for Everyone with Pytorch 学习笔记](./ML-DL-Pytorch)
   - [Person-Re-identification 学习笔记](./Person-Re-identification)
@@ -21,7 +22,7 @@
 
   - [深度学习图书目录](https://github.com/zjcao/books)
     
-  
+
 ---
 ###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* &nbsp;&nbsp;[http://sel.jbnu.ac.kr/](http://sel.jbnu.ac.kr/)
 
