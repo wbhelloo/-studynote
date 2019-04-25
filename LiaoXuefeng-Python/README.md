@@ -9,3 +9,4 @@
 - [04_Python基础_条件判断](./Lecture-04.md)
 - [05_Python基础_循环](./Lecture-05.md)
 - [06_Python基础_dict 和 Set](./Lecture-06.md)
+- [test](github/zjcao/zjcao.github.io/blob/master/LiaoXuefeng-Python/06%20Python基础_dict%20和%20Set.ipynb)
