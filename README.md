@@ -10,6 +10,7 @@
 - 学习笔记类
 
   - [Python简明教程(完)](./A-Byte-of-Python)
+  - [廖雪峰Python教程](./LiaoXuefeng-Python)
   - [JavaScript 学习笔记](./JavaScript)
   - [ML/DL for Everyone with Pytorch 学习笔记](./ML-DL-Pytorch)
   - [Person-Re-identification 学习笔记](./Person-Re-identification)
