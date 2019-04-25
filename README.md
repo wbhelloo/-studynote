@@ -25,5 +25,5 @@
     
 
 ---
-###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* &nbsp;&nbsp;[http://sel.jbnu.ac.kr/](http://sel.jbnu.ac.kr/)
+###### ![](./images/mail.ico) *zjcao@jbnu.ac.kr* &nbsp;&nbsp; ![LabPage](./images/link.ico)[http://sel.jbnu.ac.kr/](http://sel.jbnu.ac.kr/)
 
