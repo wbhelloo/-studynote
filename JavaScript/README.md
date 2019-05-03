@@ -5,3 +5,4 @@
 - [01_快速入门-JavaScript代码运行](./01_JavaScript.md)
 - [02_快速入门-基础语法](./02_JavaScript.md)
 - [03_快速入门-数据类型和变量](./03_JavaScript.md)
+- [04_快速入门-字符串](./04_JavaScript.md)
