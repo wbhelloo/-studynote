@@ -105,7 +105,7 @@ JavaScript为字符串提供了一些常用方法，注意，调用这些方法�
 
 ### toUpperCase
 
-toUpperCase()把字符串全部变为大写：
+`toUpperCase()`把字符串全部变为大写：
 
 ```javascript
 var s = 'hello world'
@@ -116,11 +116,11 @@ s.toUpperCase()
 
 ### toLowerCase
 
-toLowerCase()把一个字符串全部变为小写：
+`toLowerCase()`把一个字符串全部变为小写：
 
 ### indexOf
 
-indexOf()会搜索指定字符串出现的位置：
+`indexOf()`会搜索指定字符串出现的位置：
 
 ```javascript
 var s = 'hello world'
@@ -130,7 +130,7 @@ s.indexOf('o')
 ```
 ### substring
 
-substring()返回指定索引区间的子串：
+`substring()`返回指定索引区间的子串：
 
 ```javascript
 var s = "hello world";
