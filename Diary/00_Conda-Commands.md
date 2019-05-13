@@ -73,6 +73,15 @@ Linux: `du -h --max-depth=1 /home/`
 82G     /home/frank
 1.8T    /home/
 ```
+- ### 统计当前目录下文件的个数（不包括目录）
+Linux: `ls -l | grep "^-" | wc -l`
+
+- 统计当前目录下文件的个数（包括子目录）
+Linux:  `ls -lR| grep "^-" | wc -l`
+
+- 查看某目录下文件夹(目录)的个数（包括子目录）
+Linux: `ls -lR | grep "^d" | wc -l`
+
 
 - ### 更改用户名密码
 Linux: `passwd 当前用户名`
