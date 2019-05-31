@@ -13,4 +13,5 @@
 - [04_汽车车牌模糊处理代码](./04_Mask-License-Plate.md)
 - [05_深度学习常用激活函数Python实现](./05_Activation-Function.md)
 - [06_linux程序设置后台运行及查看方法](./06_linux程序设置后台运行及查看方法.md)
+- [07_Jupyter-Notebook-远程访问设置](./07_Jupyter-Notebook-远程访问设置.md)
 
