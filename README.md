@@ -22,6 +22,8 @@
 - 深度学习书目
 
   - [深度学习图书目录](https://github.com/zjcao/books)
+  
+  ![](http://sel.chonbuk.ac.kr/selweb/data/papers/czj.jpg?_t=1560051037)
     
 
 ---
