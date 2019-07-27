@@ -92,21 +92,34 @@ Linux: `tar -xzf all.tar.gz`
 
 - ### 解压举例
 
-        `tar –xvf file.tar`         // 解压 tar 包 
-        `tar -xzvf file.tar.gz`     // 解压 tar.gz 
-        `tar -xjvf file.tar.bz2`    // 解压 tar.bz2 
-        `tar –xZvf file.tar.Z`      // 解压 tar.Z 
-        `unrar e file.rar`          // 解压 rar 
-        `unzip file.zip`            // 解压 zip 
+`tar –xvf file.tar`         // 解压 tar 包 
+
+`tar -xzvf file.tar.gz`     // 解压 tar.gz 
+
+`tar -xjvf file.tar.bz2`    // 解压 tar.bz2 
+
+`tar –xZvf file.tar.Z`      // 解压 tar.Z 
+
+`unrar e file.rar`          // 解压 rar 
+
+`unzip file.zip`            // 解压 zip 
 
 - ### 总结
 
-        `*.tar` 用 `tar –xvf` 解压 
-        `*.gz` 用 `gzip -d`或者`gunzip` 解压 
-        `*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压 
-        `*.bz2` 用 `bzip2 -d`或者用`bunzip2` 解压 
-        `*.tar.bz2`用`tar –xjf` 解压 
-        `*.Z` 用 `uncompress` 解压 
-        `*.tar.Z` 用`tar –xZf` 解压 
-        `*.rar` 用 `unrar e`解压 
-        `*.zip` 用 `unzip` 解压
+`*.tar` 用 `tar –xvf` 解压
+
+`*.gz` 用 `gzip -d`或者`gunzip` 解压
+
+`*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压  
+
+`*.bz2` 用 `bzip2 -d`或者用`bunzip2` 解压  
+
+`*.tar.bz2`用`tar –xjf` 解压   
+
+`*.Z` 用 `uncompress` 解压   
+
+`*.tar.Z` 用`tar –xZf` 解压  
+
+`*.rar` 用 `unrar e`解压   
+
+`*.zip` 用 `unzip` 解压  
