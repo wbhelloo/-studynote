@@ -138,8 +138,8 @@ jupyter-n 911 frank   10u  IPv4 16381138      0t0  TCP 114.70.**.**:8888->210.11
 - ### Linux 查看8080端口占用
 Linux: `lsof -i:8080` 
 
-- ### Linux 杀掉(kill)对应的进程
-Linux: `kill 911`
-
 - ### Linux 查看指定的程序
-Linux: `ps -ef|grep jupyter `
+Linux: `ps -ef|grep jupyter `  jupyter为指定的程序
+
+- ### Linux 杀掉(kill)对应的进程
+Linux: `kill -9 911` 911为PID号。
