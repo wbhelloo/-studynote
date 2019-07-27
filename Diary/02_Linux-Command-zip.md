@@ -1,4 +1,4 @@
-## Linux常用命令: zip、unzip 压缩和解压缩命令
+## Linux常用命令: tar、zip 压缩和解压缩命令
 
 ### ```zip```的用法
 
@@ -64,3 +64,47 @@
 - 将压缩文件test.zip在指定目录/tmp下解压缩，如果已有相同的文件存在，要求unzip命令覆盖原先的文件。
 
         unzip -o test.zip -d tmp/
+
+
+## `tar` 的用法
+
+- ### 将所有 `.jpg` 的文件打成一个名为 `all.tar` 的包
+Linux: `tar -cf all.tar *.jpg`
+> `-c` 是表示产生新的包，`-f` 指定包的文件名。
+
+- ### 将所有 `.gif` 的文件增加到 `all.tar` 的包里面去
+Linux: `tar -rf all.tar *.gif`
+> `-r` 是表示增加文件
+
+- ### 更新原来 `tar` 包 `all.tar` 中 `logo.gif` 文件
+Linux: `tar -uf all.tar logo.gif`
+> `-u` 是表示更新文件
+
+- ### 列出 `all.tar` 包中所有文件
+Linux: `tar -tf all.tar`
+> `-t`是列出文件的意思
+
+- ### 将所有 `.jpg` 的文件打成一个 `tar` 包，并且将其用 `gzip` 压缩，生成一个 `gzip` 压缩过的包，包名为 `all.tar.gz`
+Linux: `tar -czf all.tar.gz *.jpg`
+
+- ### 解压缩 `all.tar.gz`
+Linux: `tar -xzf all.tar.gz`
+
+- ### 解压举例
+`tar –xvf file.tar`         // 解压 tar 包 
+`tar -xzvf file.tar.gz`     // 解压 tar.gz 
+`tar -xjvf file.tar.bz2`    // 解压 tar.bz2 
+`tar –xZvf file.tar.Z`      // 解压 tar.Z 
+`unrar e file.rar`          // 解压 rar 
+`unzip file.zip`            // 解压 zip 
+
+- ### 总结
+`*.tar` 用 `tar –xvf` 解压 
+`*.gz` 用 `gzip -d`或者`gunzip` 解压 
+`*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压 
+`*.bz2` 用 `bzip2 -d`或者用`bunzip2` 解压 
+`*.tar.bz2`用`tar –xjf` 解压 
+`*.Z` 用 `uncompress` 解压 
+`*.tar.Z` 用`tar –xZf` 解压 
+`*.rar` 用 `unrar e`解压 
+`*.zip` 用 `unzip` 解压
