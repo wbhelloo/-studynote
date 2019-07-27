@@ -8,23 +8,23 @@
 
 ### 常用参数：
 
-```-a``` 将文件转成ASCII模式
+   ```-a``` 将文件转成ASCII模式
 
-```-F``` 尝试修复损坏的压缩文件
+   ```-F``` 尝试修复损坏的压缩文件
 
-```-h``` 显示帮助界面
+   ```-h``` 显示帮助界面
 
-```-m``` 将文件压缩之后，删除源文件
+   ```-m``` 将文件压缩之后，删除源文件
 
-```-n``` 特定字符串    不压缩具有特定字尾字符串的文件
+   ```-n``` 特定字符串    不压缩具有特定字尾字符串的文件
 
-```-o``` 将压缩文件内的所有文件的最新变动时间设为压缩时候的时间
+   ```-o``` 将压缩文件内的所有文件的最新变动时间设为压缩时候的时间
 
-```-q``` 安静模式，在压缩的时候不显示指令的执行过程
+   ```-q``` 安静模式，在压缩的时候不显示指令的执行过程
 
-```-r``` 将指定的目录下的所有子目录以及文件一起处理
+   ```-r``` 将指定的目录下的所有子目录以及文件一起处理
 
-```-S``` 包含系统文件和隐含文件（S是大写）
+   ```-S``` 包含系统文件和隐含文件（S是大写）
 
 例如：
 
@@ -45,15 +45,15 @@
 
 ### 常用参数：
 
-```-n``` 解压缩时不要覆盖原有的文件；
+   ```-n``` 解压缩时不要覆盖原有的文件；
 
-```-o``` 不必先询问用户，unzip执行后覆盖原有的文件；
+   ```-o``` 不必先询问用户，unzip执行后覆盖原有的文件；
 
-```-P [密码]``` 使用zip的密码选项；
+   ```-P [密码]``` 使用zip的密码选项；
 
-```-q``` 执行时不显示任何信息；
+   ```-q``` 执行时不显示任何信息；
 
-```-d [目录]``` 指定文件解压缩后所要存储的目录；
+   ```-d [目录]``` 指定文件解压缩后所要存储的目录；
 
 例如：
 
@@ -92,17 +92,17 @@ Linux: `tar -xzf all.tar.gz`
 
 - ### 解压举例
 
-`tar –xvf file.tar`         // 解压 tar 包 
+   `tar –xvf file.tar`         // 解压 tar 包 
 
-`tar -xzvf file.tar.gz`     // 解压 tar.gz 
+   `tar -xzvf file.tar.gz`     // 解压 tar.gz 
 
-`tar -xjvf file.tar.bz2`    // 解压 tar.bz2 
+   `tar -xjvf file.tar.bz2`    // 解压 tar.bz2 
 
-`tar –xZvf file.tar.Z`      // 解压 tar.Z 
+   `tar –xZvf file.tar.Z`      // 解压 tar.Z 
 
-`unrar e file.rar`          // 解压 rar 
+   `unrar e file.rar`          // 解压 rar 
 
-`unzip file.zip`            // 解压 zip 
+   `unzip file.zip`            // 解压 zip 
 
 - ### 总结
 
@@ -110,16 +110,16 @@ Linux: `tar -xzf all.tar.gz`
 
    `*.gz` 用 `gzip -d`或者`gunzip` 解压
 
-`*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压  
+   `*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压  
 
-`*.bz2` 用 `bzip2 -d`或者用`bunzip2` 解压  
+   `*.bz2` 用 `bzip2 -d`或者用`bunzip2` 解压  
 
-`*.tar.bz2`用`tar –xjf` 解压   
+   `*.tar.bz2`用`tar –xjf` 解压   
 
-`*.Z` 用 `uncompress` 解压   
+   `*.Z` 用 `uncompress` 解压   
 
-`*.tar.Z` 用`tar –xZf` 解压  
+   `*.tar.Z` 用`tar –xZf` 解压  
 
-`*.rar` 用 `unrar e`解压   
+   `*.rar` 用 `unrar e`解压   
 
-`*.zip` 用 `unzip` 解压  
+   `*.zip` 用 `unzip` 解压  
