@@ -106,9 +106,9 @@ Linux: `tar -xzf all.tar.gz`
 
 - ### 总结
 
-`*.tar` 用 `tar –xvf` 解压
+   `*.tar` 用 `tar –xvf` 解压
 
-`*.gz` 用 `gzip -d`或者`gunzip` 解压
+   `*.gz` 用 `gzip -d`或者`gunzip` 解压
 
 `*.tar.gz`和`*.tgz` 用 `tar –xzf` 解压  
 
