@@ -46,6 +46,22 @@
     Linux: `conda env create -f my-environment.yml`
     > `my-environment`为从其他电脑导出的虚拟环境包
 
+- ### 上传项目到 Anaconda Cloud
+
+    linux: `anaconda-project upload`
+
+- ### 分享`jupyter notebook` 到 Anaconda Cloud
+
+    Linux: `anaconda upload my-notebook.ipynb`
+
+    > 查看：`http://notebooks.anaconda.org/<USERNAME>/my-notebook`   
+    
+- ### 下载他人分享在Anaconda Cloud的`Jupyter notebook`
+
+    Linux: `anaconda download username/my-notebook`
+
+
+
 
 
 - ### 安全地移除 Anaconda
