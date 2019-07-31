@@ -18,3 +18,4 @@
 - [07_Jupyter-Notebook-远程访问设置](./07_Jupyter-Notebook-Remote-access-Settings.md)
 - [08_conda update conda 时报错](./08_Conda-update-update-error.md)
 - [09_分享Conda虚拟环境到Anaconda-Cloud](./09_Conda_share_an_env_on_cloud.md)
+- [10_批量修改·文件夹内文件夹·内文件的名字](./10_Python-Commond-os-rename.md)
