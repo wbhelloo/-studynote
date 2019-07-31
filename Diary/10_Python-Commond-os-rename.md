@@ -40,8 +40,9 @@ for root, dirs, files in os.walk(Original_image_path, topdown=True):
                 if not file[-3:] in list:
                     continue
                 Ori_image_path = Ori_image_dir_path + "/" + file
-                New_image_path = Ori_image_dir_path + "/" + str(count) + '.jpg'
+                New_image_path = Ori_image_dir_path + "/" + str(count_file) + '.jpg'
 
+                # 修改文件名字
                 os.rename(Ori_image_path, New_image_path)
                 count_file += 1
 
