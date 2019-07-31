@@ -3,8 +3,9 @@
 
 - 常用工具命令
 
-  - [00_Markdown 简明语法](./Diary/00_Markdown-Commands.md)
-  - [01_Ubuntn常用命令](./Diary/00_Conda-Commands.md)
+  - [00_Markdown_简明语法](./Diary/00_Markdown-Commands.md)
+  - [01_Linux_常用命令](./Diary/00_Linux-Commands.md)
+  - [02_Conda_常用命令](./Diary/00_Conda-Commands.md)
 
   
 - 学习笔记类
