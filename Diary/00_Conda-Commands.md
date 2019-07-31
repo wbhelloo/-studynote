@@ -1,4 +1,4 @@
-## 00_Conda常用命令
+## Conda常用命令
 
 - ### 检查更新当前conda
     Linux: `conda update conda`
